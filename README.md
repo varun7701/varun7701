@@ -1,4 +1,4 @@
-### Hello! Please reach out to me at vangala3@illinois.edu to view. Thank you.
+### Hello! Please reach out to me at vangala3@illinois.edu with your Github username/email to view. Thank you.
 
 <!--
 **varun7701/varun7701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
